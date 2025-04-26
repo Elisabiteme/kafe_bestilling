@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# Mac OS / Windows / Linux system files
+.DS_Store
+Thumbs.db
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+
+# Logs og midlertidige filer
+*.log
+*.tmp
+
+# Testfiler / kjøredata
+kvitteringer/*.txt
