@@ -1,6 +1,6 @@
 # Dokumentasjon: Kafé-bestillingssystem
 
-## Oversikt
+## Prosjekt oversikt
 Dette prosjektet er et enkelt objektorientert Python-program som simulerer et bestillingssystem for en kafé. Programmet lar deg opprette produkter, kunder og bestillinger, samt vise kvittering med totalpris og eventuelle rabatter.
 
 ## Filstruktur

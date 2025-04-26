@@ -1,5 +1,6 @@
 
-#Bestillingssystem for en kafe: lar deg lage bestillinger, legge til produkter (som kaffe, kake, te), legge inn rabatt og regne ut og og vise kvittering.
+#BESTILLINGSSYSTEM FOR EN KAFE: 
+#lar deg lage bestillinger, legge til produkter (som kaffe, kake, te), legge inn rabatt og regne ut og og vise kvittering.
 
 from datetime import date
 
